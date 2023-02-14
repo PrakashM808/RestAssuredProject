@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3511" started-at="2023-02-14T01:26:30Z" finished-at="2023-02-14T01:26:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3511" started-at="2023-02-14T01:26:30Z" finished-at="2023-02-14T01:26:34Z">
+      <class name="testCases.UpdateOneProductAdvance">
+        <test-method status="PASS" signature="createOneProduct()[pri:1, instance:testCases.UpdateOneProductAdvance@564fabc8]" name="createOneProduct" duration-ms="1755" started-at="2023-02-14T01:26:30Z" finished-at="2023-02-14T01:26:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOneProduct -->
+        <test-method status="PASS" signature="readAllProducts()[pri:2, instance:testCases.UpdateOneProductAdvance@564fabc8]" name="readAllProducts" duration-ms="894" started-at="2023-02-14T01:26:32Z" finished-at="2023-02-14T01:26:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readAllProducts -->
+        <test-method status="PASS" signature="updateOneProduct()[pri:3, instance:testCases.UpdateOneProductAdvance@564fabc8]" name="updateOneProduct" duration-ms="408" started-at="2023-02-14T01:26:33Z" finished-at="2023-02-14T01:26:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateOneProduct -->
+        <test-method status="PASS" signature="readOneUpdatedProduct()[pri:4, instance:testCases.UpdateOneProductAdvance@564fabc8]" name="readOneUpdatedProduct" duration-ms="376" started-at="2023-02-14T01:26:33Z" finished-at="2023-02-14T01:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readOneUpdatedProduct -->
+      </class> <!-- testCases.UpdateOneProductAdvance -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
